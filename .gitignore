@@ -1,0 +1,19 @@
+# project initialisation
+.spyproject
+.vs
+
+# weights
+facenet_keras_weights.h5
+
+# image_files
+data/train/syed_asif
+data/val/syed_asif
+data/train/syed_atef
+data/val/syed_atef
+data/train/abhijay_bandi
+data/val/abhijay_bandi
+data/train/anabiya
+data/val/anabiya
+
+#.npz files
+*.npz
